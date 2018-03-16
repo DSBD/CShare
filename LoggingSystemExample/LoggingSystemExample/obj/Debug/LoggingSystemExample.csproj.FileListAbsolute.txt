@@ -1,0 +1,7 @@
+C:\Users\gadafi\source\repos\LoggingSystemExample\LoggingSystemExample\bin\Debug\LoggingSystemExample.exe.config
+C:\Users\gadafi\source\repos\LoggingSystemExample\LoggingSystemExample\bin\Debug\LoggingSystemExample.exe
+C:\Users\gadafi\source\repos\LoggingSystemExample\LoggingSystemExample\bin\Debug\LoggingSystemExample.pdb
+C:\Users\gadafi\source\repos\LoggingSystemExample\LoggingSystemExample\obj\Debug\LoggingSystemExample.csprojResolveAssemblyReference.cache
+C:\Users\gadafi\source\repos\LoggingSystemExample\LoggingSystemExample\obj\Debug\LoggingSystemExample.csproj.CoreCompileInputs.cache
+C:\Users\gadafi\source\repos\LoggingSystemExample\LoggingSystemExample\obj\Debug\LoggingSystemExample.exe
+C:\Users\gadafi\source\repos\LoggingSystemExample\LoggingSystemExample\obj\Debug\LoggingSystemExample.pdb
