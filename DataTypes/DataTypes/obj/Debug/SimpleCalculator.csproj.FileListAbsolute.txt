@@ -1,0 +1,5 @@
+G:\Programming\C#\DataTypes\DataTypes\bin\Debug\DataTypes.exe
+G:\Programming\C#\DataTypes\DataTypes\bin\Debug\DataTypes.pdb
+G:\Programming\C#\DataTypes\DataTypes\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+G:\Programming\C#\DataTypes\DataTypes\obj\Debug\DataTypes.exe
+G:\Programming\C#\DataTypes\DataTypes\obj\Debug\DataTypes.pdb
