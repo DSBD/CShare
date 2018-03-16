@@ -1,0 +1,7 @@
+G:\Programming\C#\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe.config
+G:\Programming\C#\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.exe
+G:\Programming\C#\AutomaticProperties\AutomaticProperties\bin\Debug\AutomaticProperties.pdb
+G:\Programming\C#\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csprojResolveAssemblyReference.cache
+G:\Programming\C#\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.csproj.CoreCompileInputs.cache
+G:\Programming\C#\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.exe
+G:\Programming\C#\AutomaticProperties\AutomaticProperties\obj\Debug\AutomaticProperties.pdb
