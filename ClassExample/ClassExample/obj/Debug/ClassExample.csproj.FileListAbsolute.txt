@@ -1,0 +1,6 @@
+G:\Programming\C#\ClassExample\ClassExample\bin\Debug\ClassExample.exe
+G:\Programming\C#\ClassExample\ClassExample\bin\Debug\ClassExample.pdb
+G:\Programming\C#\ClassExample\ClassExample\obj\Debug\ClassExample.csprojResolveAssemblyReference.cache
+G:\Programming\C#\ClassExample\ClassExample\obj\Debug\ClassExample.csproj.CoreCompileInputs.cache
+G:\Programming\C#\ClassExample\ClassExample\obj\Debug\ClassExample.exe
+G:\Programming\C#\ClassExample\ClassExample\obj\Debug\ClassExample.pdb
