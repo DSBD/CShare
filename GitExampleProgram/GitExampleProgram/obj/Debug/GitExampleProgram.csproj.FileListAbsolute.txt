@@ -1,0 +1,6 @@
+G:\Programming\C#\GitExampleProgram\GitExampleProgram\obj\Debug\GitExampleProgram.csprojResolveAssemblyReference.cache
+G:\Programming\C#\GitExampleProgram\GitExampleProgram\obj\Debug\GitExampleProgram.csproj.CoreCompileInputs.cache
+G:\Programming\C#\GitExampleProgram\GitExampleProgram\bin\Debug\GitExampleProgram.exe
+G:\Programming\C#\GitExampleProgram\GitExampleProgram\bin\Debug\GitExampleProgram.pdb
+G:\Programming\C#\GitExampleProgram\GitExampleProgram\obj\Debug\GitExampleProgram.exe
+G:\Programming\C#\GitExampleProgram\GitExampleProgram\obj\Debug\GitExampleProgram.pdb
