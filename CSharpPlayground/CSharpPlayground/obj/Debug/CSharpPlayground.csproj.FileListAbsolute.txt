@@ -1,0 +1,6 @@
+G:\Programming\C#\CSharpPlayground\CSharpPlayground\bin\Debug\CSharpPlayground.exe
+G:\Programming\C#\CSharpPlayground\CSharpPlayground\bin\Debug\CSharpPlayground.pdb
+G:\Programming\C#\CSharpPlayground\CSharpPlayground\obj\Debug\CSharpPlayground.csprojResolveAssemblyReference.cache
+G:\Programming\C#\CSharpPlayground\CSharpPlayground\obj\Debug\CSharpPlayground.csproj.CoreCompileInputs.cache
+G:\Programming\C#\CSharpPlayground\CSharpPlayground\obj\Debug\CSharpPlayground.exe
+G:\Programming\C#\CSharpPlayground\CSharpPlayground\obj\Debug\CSharpPlayground.pdb
