@@ -1,0 +1,6 @@
+G:\Programming\C#\NumberToString\NumberToString\bin\Debug\NumberToString.exe
+G:\Programming\C#\NumberToString\NumberToString\bin\Debug\NumberToString.pdb
+G:\Programming\C#\NumberToString\NumberToString\obj\Debug\NumberToString.csprojResolveAssemblyReference.cache
+G:\Programming\C#\NumberToString\NumberToString\obj\Debug\NumberToString.csproj.CoreCompileInputs.cache
+G:\Programming\C#\NumberToString\NumberToString\obj\Debug\NumberToString.exe
+G:\Programming\C#\NumberToString\NumberToString\obj\Debug\NumberToString.pdb
