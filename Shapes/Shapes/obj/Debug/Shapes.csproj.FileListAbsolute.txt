@@ -1,0 +1,5 @@
+G:\Programming\C#\Shapes\Shapes\bin\Debug\Shapes.exe
+G:\Programming\C#\Shapes\Shapes\bin\Debug\Shapes.pdb
+G:\Programming\C#\Shapes\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+G:\Programming\C#\Shapes\Shapes\obj\Debug\Shapes.exe
+G:\Programming\C#\Shapes\Shapes\obj\Debug\Shapes.pdb

@@ -1,0 +1,6 @@
+G:\Programming\C#\Shapes_Inheritance_Example\Shapes_Inheritance_Example\bin\Debug\Shapes_Inheritance_Example.exe
+G:\Programming\C#\Shapes_Inheritance_Example\Shapes_Inheritance_Example\bin\Debug\Shapes_Inheritance_Example.pdb
+G:\Programming\C#\Shapes_Inheritance_Example\Shapes_Inheritance_Example\obj\Debug\Shapes_Inheritance_Example.csprojResolveAssemblyReference.cache
+G:\Programming\C#\Shapes_Inheritance_Example\Shapes_Inheritance_Example\obj\Debug\Shapes_Inheritance_Example.csproj.CoreCompileInputs.cache
+G:\Programming\C#\Shapes_Inheritance_Example\Shapes_Inheritance_Example\obj\Debug\Shapes_Inheritance_Example.exe
+G:\Programming\C#\Shapes_Inheritance_Example\Shapes_Inheritance_Example\obj\Debug\Shapes_Inheritance_Example.pdb
