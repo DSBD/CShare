@@ -1,0 +1,5 @@
+G:\Programming\C#\SimpleTipCalculator\SimpleTipCalculator\bin\Debug\SimpleTipCalculator.exe
+G:\Programming\C#\SimpleTipCalculator\SimpleTipCalculator\bin\Debug\SimpleTipCalculator.pdb
+G:\Programming\C#\SimpleTipCalculator\SimpleTipCalculator\obj\Debug\SimpleTipCalculator.csproj.CoreCompileInputs.cache
+G:\Programming\C#\SimpleTipCalculator\SimpleTipCalculator\obj\Debug\SimpleTipCalculator.exe
+G:\Programming\C#\SimpleTipCalculator\SimpleTipCalculator\obj\Debug\SimpleTipCalculator.pdb

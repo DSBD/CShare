@@ -1,0 +1,13 @@
+C:\Users\Aeiman\Desktop\C#\ShoppingCartExample\ShoppingCartExample\bin\Debug\ShoppingCartExample.exe.config
+C:\Users\Aeiman\Desktop\C#\ShoppingCartExample\ShoppingCartExample\bin\Debug\ShoppingCartExample.exe
+C:\Users\Aeiman\Desktop\C#\ShoppingCartExample\ShoppingCartExample\bin\Debug\ShoppingCartExample.pdb
+C:\Users\Aeiman\Desktop\C#\ShoppingCartExample\ShoppingCartExample\obj\Debug\ShoppingCartExample.csprojResolveAssemblyReference.cache
+C:\Users\Aeiman\Desktop\C#\ShoppingCartExample\ShoppingCartExample\obj\Debug\ShoppingCartExample.exe
+C:\Users\Aeiman\Desktop\C#\ShoppingCartExample\ShoppingCartExample\obj\Debug\ShoppingCartExample.pdb
+G:\Programming\C#\ShoppingCartExample\ShoppingCartExample\bin\Debug\ShoppingCartExample.exe.config
+G:\Programming\C#\ShoppingCartExample\ShoppingCartExample\bin\Debug\ShoppingCartExample.exe
+G:\Programming\C#\ShoppingCartExample\ShoppingCartExample\bin\Debug\ShoppingCartExample.pdb
+G:\Programming\C#\ShoppingCartExample\ShoppingCartExample\obj\Debug\ShoppingCartExample.csprojResolveAssemblyReference.cache
+G:\Programming\C#\ShoppingCartExample\ShoppingCartExample\obj\Debug\ShoppingCartExample.csproj.CoreCompileInputs.cache
+G:\Programming\C#\ShoppingCartExample\ShoppingCartExample\obj\Debug\ShoppingCartExample.exe
+G:\Programming\C#\ShoppingCartExample\ShoppingCartExample\obj\Debug\ShoppingCartExample.pdb
